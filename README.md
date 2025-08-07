@@ -4,5 +4,6 @@
 
 ## Getting Started
 
-1.首先按裝flutter
+1.首先安裝flutter
+
 2.flutter pub get 安裝必要的library

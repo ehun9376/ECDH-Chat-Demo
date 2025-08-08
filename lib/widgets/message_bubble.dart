@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ecdh/models/chat_message.dart';
 import 'package:ecdh/message_encryption_service.dart';
-import 'package:ecdh/simple_text.dart';
+import 'package:ecdh/widgets/simple_text.dart';
 
 // 獨立的訊息 Widget
 class MessageBubble extends StatefulWidget {
